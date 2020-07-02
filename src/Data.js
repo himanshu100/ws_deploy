@@ -1,0 +1,53 @@
+export const StoreProducts = [
+  {
+    id: 1,
+    title: "Mango",
+    img: "https://source.unsplash.com/600x400/?mango",
+    price: 10,
+    info: "This mango is very tasty.",
+    inCart: false,
+    count: 0,
+    total: 0,
+  },
+  {
+    id: 2,
+    title: "Litchi",
+    img: "https://source.unsplash.com/600x400/?litchi",
+    price: 20,
+    info: "This mango is very tasty.",
+    inCart: false,
+    count: 0,
+    total: 0,
+  },
+  {
+    id: 3,
+    title: "Apple",
+    img: "https://source.unsplash.com/600x400/?apple",
+    price: 30,
+    info: "This mango is very tasty.",
+    inCart: false,
+    count: 0,
+    total: 0,
+  },
+  {
+    id: 4,
+    title: "Banana",
+    img: "https://source.unsplash.com/600x400/?banana",
+    price: 40,
+    info: "This mango is very tasty.",
+    inCart: false,
+    count: 0,
+    total: 0,
+  },
+];
+
+export const detailProduct = {
+  id: 1,
+  title: "Mango in detail",
+  img: "./images/mango_Img1.jpg",
+  price: 10,
+  info: "Mango details",
+  inCart: false,
+  count: 0,
+  total: 0,
+};
